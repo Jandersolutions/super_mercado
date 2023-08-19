@@ -18,12 +18,15 @@ Este projeto permitirá que a rede de supermercados compreenda melhor as intera�
 | Material | Link |
 |---------|------|
 | Notebook | https://github.com/Jandersolutions/super_mercado/blob/main/notebooks/projeto.ipynb |
+| Gerador de Dataset¹ | https://github.com/Jandersolutions/super_mercado/blob/main/src/data/geraDatasetVendas.py |
 | Dataset | https://github.com/Jandersolutions/super_mercado/blob/main/data/raw/venda_07-2023.csv |
 | Cookiecutter Data Science | https://drivendata.github.io/cookiecutter-data-science/ |
 | CRISP-DM | https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining |
 | Faker | https://faker.readthedocs.io/en/master/ |
 | Documentação do projeto |https://github.com/Jandersolutions/super_mercado/blob/main/references/descric%C3%A3o%20do%20projeto.pdf |
 | Dicionário de dados | https://github.com/Jandersolutions/super_mercado/blob/main/references/dicionario%20dos%20dados.pdf |
+
+1 artigo que publiquei sobre o gerador de dataset -> [artigo](https://web.dio.me/articles/gerador-de-dataset-sintetico-gere-seus-arquivos-csvs?back=%2Farticles&page=1&order=oldest)
 
 
 ## Como o projeto esta organizado  📚
