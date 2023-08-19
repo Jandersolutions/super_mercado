@@ -1,10 +1,10 @@
 # 🛒 Super Mercado 🛍️
-------------
+
 
 Este projeto permitirá que a rede de supermercados compreenda melhor as interações entre clientes e funcionários, identificando oportunidades de aprimoramento no atendimento. Aumentando a satisfação do cliente e melhorando a eficiência, a empresa poderá criar uma experiência mais positiva para seus clientes, promovendo a fidelização e o sucesso a longo prazo. 🌟🤝
 
 ## Inicializando o projeto 🚀
-------------
+
 - Clone o projeto: ```git clone https://github.com/Jandersolutions/super_mercado.git```
 - Crie uma máquina virtual: ```python -m venv myvenv```
 - Ative a máquina virtual: ```source myvenv/bin/activate```
@@ -22,7 +22,7 @@ Materiais e links
 
 
 Como o projeto esta organizado
-------------
+
 
     ├── LICENSE
     ├── Makefile           <- Makefile com comandos como make data ou make train
