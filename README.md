@@ -22,6 +22,8 @@ Este projeto permitirá que a rede de supermercados compreenda melhor as intera�
 | Cookiecutter Data Science | https://drivendata.github.io/cookiecutter-data-science/ |
 | CISP-DM | https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining |
 | Faker | https://faker.readthedocs.io/en/master/ |
+| Documentação do projeto |https://github.com/Jandersolutions/super_mercado/blob/main/references/descric%C3%A3o%20do%20projeto.pdf |
+| Dicionário de dados | https://github.com/Jandersolutions/super_mercado/blob/main/references/dicionario%20dos%20dados.pdf |
 
 
 ## Como o projeto esta organizado  📚
