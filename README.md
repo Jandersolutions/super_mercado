@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/lQJojh4.png"/>
+
 # 🛒 Super Mercado 🛍️
 
 
