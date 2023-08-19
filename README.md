@@ -7,17 +7,24 @@ Este projeto permitirá que a rede de supermercados compreenda melhor as intera�
 
 ## Inicializando o projeto 🚀
 
+
 - Clone o projeto: ```git clone https://github.com/Jandersolutions/super_mercado.git```
 - Crie uma máquina virtual: ```python -m venv myvenv```
 - Ative a máquina virtual: ```source myvenv/bin/activate```
 - Instale as requisições: ```pip install -r requirements.txt```
 - Abra o JupyterLab: ```jupyter-lab``` 📊🔬
+- Docker:
+  ```docker build -t janderscience .```
+  ```docker run -p 8888:8888 janderscience```
 
 ## Materiais e links 📕
+
+
 ------------
 | Material | Link |
 |---------|------|
 | Notebook | https://github.com/Jandersolutions/super_mercado/blob/main/notebooks/projeto.ipynb |
+| Docker | https://docs.docker.com/ |
 | Gerador de Dataset¹ | https://github.com/Jandersolutions/super_mercado/blob/main/src/data/geraDatasetVendas.py |
 | Dataset | https://github.com/Jandersolutions/super_mercado/blob/main/data/raw/venda_07-2023.csv |
 | Cookiecutter Data Science | https://drivendata.github.io/cookiecutter-data-science/ |
@@ -27,6 +34,27 @@ Este projeto permitirá que a rede de supermercados compreenda melhor as intera�
 | Dicionário de dados | https://github.com/Jandersolutions/super_mercado/blob/main/references/dicionario%20dos%20dados.pdf |
 
 1 artigo que publiquei sobre o gerador de dataset -> [artigo](https://web.dio.me/articles/gerador-de-dataset-sintetico-gere-seus-arquivos-csvs?back=%2Farticles&page=1&order=oldest)
+## Explicando o CRISP-DM:
+
+O CRISP-DM, que significa "Cross Industry Standard Process for Data Mining", é um modelo de processo amplamente utilizado para a mineração de dados e análise de dados. Ele fornece uma estrutura e orientação para as etapas envolvidas no desenvolvimento de projetos de mineração de dados e análise de dados. O CRISP-DM é composto por várias fases interconectadas e iterativas, permitindo uma abordagem sistemática para resolver problemas de mineração de dados e alcançar insights a partir de grandes conjuntos de dados.
+<img src="https://i.imgur.com/1MjYpWh.png"/>
+
+As fases do modelo CRISP-DM são as seguintes:
+
+-**Entendimento do Negócio (Business Understanding)**: Nesta fase, os objetivos do projeto são definidos, identificando-se as metas de negócios que a análise de dados deve alcançar. É crucial compreender o contexto do problema e como a análise de dados pode agregar valor ao negócio.
+
+-**Entendimento dos Dados (Data Understanding)**: Aqui, a equipe analisa e explora os dados disponíveis para entender sua estrutura, qualidade e natureza. Isso envolve coletar informações sobre os dados, identificar padrões iniciais e compreender o que os dados podem revelar.
+
+-**Preparação dos Dados (Data Preparation)**: Nesta fase, os dados são selecionados, limpos, transformados e formatados para serem adequados para a análise. É um estágio crítico para garantir que os dados estejam prontos para serem usados nos modelos de mineração.
+
+-**Modelagem (Modeling)**: Aqui, diferentes modelos de mineração de dados são criados e avaliados. Esses modelos podem incluir algoritmos de aprendizado de máquina, técnicas estatísticas e outras abordagens para gerar previsões, classificações ou outras análises.
+
+-**Avaliação (Evaluation)**: Nesta fase, os modelos criados são avaliados e comparados para determinar qual deles é o mais adequado para atender aos objetivos do projeto. A avaliação é feita com base em métricas de desempenho relevantes para o problema em questão.
+
+-**Implantação (Deployment)**: Uma vez que um modelo satisfatório é selecionado, ele é implantado em um ambiente operacional ou integrado a um fluxo de trabalho existente. Isso pode envolver a criação de sistemas automatizados para fazer previsões ou recomendações com base no modelo.
+
+-**Monitoramento (Monitoring)**: Após a implantação, é importante monitorar o desempenho contínuo do modelo e seus resultados. Se necessário, ajustes e otimizações podem ser feitos para garantir que o modelo continue fornecendo insights precisos e relevantes ao longo do tempo.
+
 
 
 ## Como o projeto esta organizado  📚
