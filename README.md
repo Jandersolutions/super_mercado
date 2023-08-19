@@ -3,6 +3,14 @@ super mercado
 
 Este projeto permitirá que a rede de supermercados compreenda melhor as interações entre clientes e funcionários, identificando oportunidades de aprimoramento no atendimento. Aumentando a satisfação do cliente e melhorando a eficiência, a empresa poderá criar uma experiência mais positiva para seus clientes, promovendo a fidelização e o sucesso a longo prazo.
 
+Materiais e links
+------------
+| Material | Link |
+|---------|------|
+| Dataset | https://github.com/Jandersolutions/super_mercado/blob/main/data/raw/venda_07-2023.csv |
+
+
+
 Como projeto esta organizado
 ------------
 
