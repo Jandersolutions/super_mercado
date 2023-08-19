@@ -1,25 +1,27 @@
-super mercado
+# 🛒 Super Mercado 🛍️
 ==============================
 
-Este projeto permitirá que a rede de supermercados compreenda melhor as interações entre clientes e funcionários, identificando oportunidades de aprimoramento no atendimento. Aumentando a satisfação do cliente e melhorando a eficiência, a empresa poderá criar uma experiência mais positiva para seus clientes, promovendo a fidelização e o sucesso a longo prazo.
+Este projeto permitirá que a rede de supermercados compreenda melhor as interações entre clientes e funcionários, identificando oportunidades de aprimoramento no atendimento. Aumentando a satisfação do cliente e melhorando a eficiência, a empresa poderá criar uma experiência mais positiva para seus clientes, promovendo a fidelização e o sucesso a longo prazo. 🌟🤝
 
-Inicializando o projeto
+## Inicializando o projeto 🚀
 ------------
-- clone o projeto ```git clone https://github.com/Jandersolutions/super_mercado.git```
-- crie uma maquina virtual ```python -m venv myvenv```
-- execute a maquina virtual ```source myvenv/bin/activate```
-- instale as requisições ```pip install -r requirements.txt```
-- abra o jupyterlab ```jupyter-lab```
+- Clone o projeto: ```git clone https://github.com/Jandersolutions/super_mercado.git```
+- Crie uma máquina virtual: ```python -m venv myvenv```
+- Ative a máquina virtual: ```source myvenv/bin/activate```
+- Instale as requisições: ```pip install -r requirements.txt```
+- Abra o JupyterLab: ```jupyter-lab``` 📊🔬
 
 Materiais e links
 ------------
 | Material | Link |
 |---------|------|
 | Dataset | https://github.com/Jandersolutions/super_mercado/blob/main/data/raw/venda_07-2023.csv |
+| Cookiecutter Data Science | https://drivendata.github.io/cookiecutter-data-science/ |
+| CISP-DM | https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining |
+| Faker | https://faker.readthedocs.io/en/master/ |
 
 
-
-Como projeto esta organizado
+Como o projeto esta organizado
 ------------
 
     ├── LICENSE
