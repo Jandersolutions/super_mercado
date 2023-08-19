@@ -11,7 +11,7 @@ Este projeto permitirá que a rede de supermercados compreenda melhor as intera�
 - Instale as requisições: ```pip install -r requirements.txt```
 - Abra o JupyterLab: ```jupyter-lab``` 📊🔬
 
-Materiais e links
+Materiais e links 📕
 ------------
 | Material | Link |
 |---------|------|
@@ -21,7 +21,7 @@ Materiais e links
 | Faker | https://faker.readthedocs.io/en/master/ |
 
 
-Como o projeto esta organizado
+Como o projeto esta organizado  📚
 
 
     ├── LICENSE
