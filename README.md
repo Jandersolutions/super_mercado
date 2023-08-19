@@ -17,6 +17,7 @@ Este projeto permitir√° que a rede de supermercados compreenda melhor as intera√
 ------------
 | Material | Link |
 |---------|------|
+| Notebook | https://github.com/Jandersolutions/super_mercado/blob/main/notebooks/projeto.ipynb |
 | Dataset | https://github.com/Jandersolutions/super_mercado/blob/main/data/raw/venda_07-2023.csv |
 | Cookiecutter Data Science | https://drivendata.github.io/cookiecutter-data-science/ |
 | CISP-DM | https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining |
