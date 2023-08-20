@@ -25,6 +25,7 @@ Este projeto permitirá que a rede de supermercados compreenda melhor as intera�
 |---------|------|
 | Notebook | https://github.com/Jandersolutions/super_mercado/blob/main/notebooks/projeto.ipynb |
 | Docker | https://docs.docker.com/ |
+| Report do projeto | https://github.com/Jandersolutions/super_mercado/blob/main/reports/relatorio.pdf |
 | Gerador de Dataset¹ | https://github.com/Jandersolutions/super_mercado/blob/main/src/data/geraDatasetVendas.py |
 | Dataset | https://github.com/Jandersolutions/super_mercado/blob/main/data/raw/venda_07-2023.csv |
 | Cookiecutter Data Science | https://drivendata.github.io/cookiecutter-data-science/ |
